@@ -16,7 +16,7 @@ public class Test1 {
     	driver.get("https://github.com/ShantanuMandale/QA_Project");
     	System.out.println("Url opened");
     	
-    	System.out.println("Hello Mybranch");
+    	System.out.println("Hello childbranch");
         
     }
 }
